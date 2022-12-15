@@ -1,4 +1,4 @@
-# Multispectral-Fusion-Detection-Algorithm-Hardware-Imple
+# Multispectral Fusion Detection Algorithm and Hardware Imple
 
 ## Beginning
 Together with Bot Huang and Mengjia Dai, We plan to complete College Students' Innovation Projects with the help of the SOC Lab server(Xi Jin,USTC).
